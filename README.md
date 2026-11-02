@@ -40,6 +40,7 @@ The program is divided into separate source files, with each operation handled i
 The project uses a Makefile for compilation.
 
 make
+
 ./out
 
 
