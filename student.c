@@ -19,6 +19,8 @@ int main()
 		printf("\t[V] Save Student Records\n");
 		printf("\t[E] Exit Program\n");
 		
+		printf("Enter your choice:\n");
+
 		scanf(" %c",&op);
 		if(op>='a' && op<='z')
 			op^=32;//For making op case-insensitive
