@@ -11,7 +11,7 @@ The program is divided into separate source files, with each operation handled i
 
 - **`student.c`** – Handles the main menu, program flow, loading records at startup, and freeing the remaining nodes before exit. Menu options are case-insensitive.
 
-- **`stud_add.c`** – Handles record creation and insertion. Roll numbers are assigned using the smallest available positive integer, and new nodes are inserted in ascending roll-number order.
+- **`stud_add.c`** – Handles record creation and insertion. Roll numbers are assigned using the smallest available positive integer, and new nodes are inserted in ascending roll-number order. Used addMiddle() approach
 
 - **`search.c`** – A common search function used by both modification and deletion. It supports searching by roll number, name, or percentage. When multiple records match, it lets you select the required record using its roll number.
 
