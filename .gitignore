@@ -1,15 +1,13 @@
-# Executable
+# Executables
 out
-
-# Other executable outputs
 a.out
 *.out
+
+# Object files
+*.o
 
 # Text files
 *.txt
 
 # Data files
 *.dat
-
-# Object files
-*.o
