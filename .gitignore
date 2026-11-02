@@ -13,3 +13,6 @@ a.out
 
 # Object files
 *.o
+
+# Vim swap files
+.*.sw?
