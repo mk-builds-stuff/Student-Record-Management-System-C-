@@ -1,4 +1,3 @@
-# Student-Record-Management-System-C-
 # Student Record Management System (C)
 
 A menu-driven student record management program written in C, using a Singly Linked List.
